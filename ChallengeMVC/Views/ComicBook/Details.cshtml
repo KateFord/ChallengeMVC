@@ -1,0 +1,44 @@
+﻿@model ChallengeMVC.Models.ComicBook
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Comic Book</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayFor(model => model.ComicTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ComicTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EpisodeNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EpisodeNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EpisodeTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EpisodeTitle)
+        </dd>
+
+    </dl>
+</div>
+<p>
+   @Html.ActionLink("Back to List of Comics", "Index")
+</p>
+
+
+
