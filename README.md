@@ -1,7 +1,7 @@
 # MVC Web Application Challenge
 
 A Visual Studio project to store Comic Books. It demonstrate how to use the Entity Framework in an ASP.NET MVC 5 web application 
-project, using the Code First architecture. I worked on this project at The Tech Academy as part of the ASP.NET AND C# module.
+project, using the Code First architecture. I worked on this project at The Tech Academy as part of the ASP.NET & C# module.
 
 ### The code includes the following:
 
