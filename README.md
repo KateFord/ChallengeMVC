@@ -6,7 +6,7 @@ project, using the Code First architecture. I worked on this project at The Tech
 ### The code includes the following:
 
 * Performing basic CRUD operations.
-* Razor to access ASP.NET helper methods.
+* Using Razor syntax to access ASP.NET helper methods.
 * Working with related data and filtering, ordering, and grouping.
 * Using command interception.
 * Writing async code and handling concurrency.
