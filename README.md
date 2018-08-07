@@ -1,4 +1,4 @@
-# Comic Book   [ASP.NET MVC Web Application]
+# Comic Book   [ASP.NET MVC 5 Web Application]
 
 A Visual Studio project demonstrating how to use Entity Framework architecture in an ASP.NET MVC 5 web application 
 project, using Code First design. I worked on this project at The Tech Academy as part of the ASP.NET & C# module.
